@@ -1,0 +1,21 @@
+"equipped": {
+            "weapons": {
+                "primaryOne": {
+                    "name": "Vintorez",
+                    "attachments": [],
+                    "skins": []
+                },
+                "primaryTwo": {
+                    "name": "HoneyBadger",
+                    "attachments": [
+                        "ACOG"
+                    ],
+                    "skins": []
+                },
+                "SideArm": {
+                    "name": "ff",
+                    "attachments": [],
+                    "skins": []
+                }
+            }
+ }
